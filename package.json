@@ -1,0 +1,28 @@
+{
+  "name": "microtime",
+  "version": "1.0",
+  "description": "FreeCodeCamp: Timestamp microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iskyd/microtime"
+  },
+  "keywords": [
+    "API",
+    "Microtime",
+    "Iskyd",
+  ],
+  "author": "Mattia Careddu",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/iskyd/microtime/issues"
+  },
+  "homepage": "https://github.com/iskyd/microtime",
+  "dependencies": {
+    "express": "^4.13.3",
+    "moment": "^2.10.6"
+  }
+}
