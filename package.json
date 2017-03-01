@@ -1,6 +1,6 @@
 {
   "name": "microtime",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "FreeCodeCamp: Timestamp microservice",
   "main": "server.js",
   "scripts": {
